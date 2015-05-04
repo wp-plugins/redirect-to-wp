@@ -29,12 +29,6 @@ In the process it can be complex to remeber and update the redirects with detail
 2. Decompress the ZIP file and upload the contents of the archive into `/wp-content/plugins/`.
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
-== Frequently Asked Questions ==
-= Where do I get my instagram "client secret id" ?
-No, For the moment the plugin only support 301 redirects.
-
-== Screenshots ==
-1. The meta box inside the post edit screen.
 
 == Changelog ==
 1.0 - initial release
