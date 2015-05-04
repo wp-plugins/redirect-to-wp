@@ -8,20 +8,23 @@ Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Add a meta box to all posts, pages, custom post types to add url you want to redirect from (old url) to the new post. You can use redirection plugin here: <https://wordpress.org/plugins/redirection/> The other option is the website htaccess file.
+This will help you create redirects while creating or updating your site posts or pages.
+By adding a url field to all of your posts or pages and choose the best option for you.
+
 
 == Description ==
 
 Add a meta box to all posts, pages, custom post types to add url you want to redirect from (old url) to the new post. 
 You can use redirection plugin here: <a href="https://wordpress.org/plugins/redirection/">Redirection Plugin.</a> OR
 The other option is the website htaccess file.
+This will help you create redirects while creating or updating your site posts or pages, so you don't need
+to update the old and new links when you finish updating your website.
 
-There is times we need to change a domain or moving from diffrent CMS to wordpress.
-In the process it can be complex to remeber and update the redirects with detailes like:
+so you don't need to remember:
 
 * The new posts or pages url
 * which post or page I all ready redirected ?
-* And so on...
+* repeat 50% of the process again and so on ....
 
 
 == Installation ==
